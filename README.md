@@ -1,7 +1,7 @@
 🧭 About Me
 
 
-💼 Business Analyst & KAM Team Manager in the Insurance / InsurTech industry
+💼 Machine Learning Engineer & KAM Team Manager in the Insurance / InsurTech industry
 
 📊 Experienced in leading large sales teams, building KPI frameworks, and designing OKR structures
 
